@@ -1,0 +1,20 @@
+
+تفاصيل أكثر : 
+
+تم تثبيت البرنامج من خلال الأوامر الموضحه في الصور وتم تنفيذ كافة  الأوامر في المهمه حقت الأسبوع الرابع المطلوبه منا 
+
+كانت تجربة جميله =)
+
+
+ more detales:
+i did these 
+2) Install tutlebot3
+- Install turtulebot3 package
+- Install turtulebot3_simulation package
+- Launch any simulation file 
+
+
+
+reference: 
+https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+https://www.youtube.com/watch?reload=9&v=M3QTWIqKtug
